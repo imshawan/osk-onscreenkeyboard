@@ -1,4 +1,4 @@
 # OnScreenKeyboard
 
 ## Screenshot
-<img src="src/osk.png">
+<img src="src/oskeybd.png">
