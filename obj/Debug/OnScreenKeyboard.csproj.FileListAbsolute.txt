@@ -1,9 +1,0 @@
-C:\Users\shawan049\Desktop\WORK\C Sharp\OnScreenKeyboard\bin\Debug\OnScreenKeyboard.exe
-C:\Users\shawan049\Desktop\WORK\C Sharp\OnScreenKeyboard\bin\Debug\OnScreenKeyboard.pdb
-C:\Users\shawan049\Desktop\WORK\C Sharp\OnScreenKeyboard\obj\Debug\OnScreenKeyboard.csprojAssemblyReference.cache
-C:\Users\shawan049\Desktop\WORK\C Sharp\OnScreenKeyboard\obj\Debug\OnScreenKeyboard.Properties.Resources.resources
-C:\Users\shawan049\Desktop\WORK\C Sharp\OnScreenKeyboard\obj\Debug\OnScreenKeyboard.csproj.GenerateResource.cache
-C:\Users\shawan049\Desktop\WORK\C Sharp\OnScreenKeyboard\obj\Debug\OnScreenKeyboard.csproj.CoreCompileInputs.cache
-C:\Users\shawan049\Desktop\WORK\C Sharp\OnScreenKeyboard\obj\Debug\OnScreenKeyboard.exe
-C:\Users\shawan049\Desktop\WORK\C Sharp\OnScreenKeyboard\obj\Debug\OnScreenKeyboard.pdb
-C:\Users\shawan049\Desktop\WORK\C Sharp\OnScreenKeyboard\obj\Debug\OnScreenKeyboard.OnScreenKeyboard.resources
